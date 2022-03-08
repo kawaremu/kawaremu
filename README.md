@@ -44,9 +44,8 @@
 
 ---
 
-<img align="left" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api?username=kawaremu&show_icons=true&hide_border=true&theme=shades-of-purple"/>
+<center><img align="left" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api?username=kawaremu&show_icons=true&hide_border=true&theme=shades-of-purple"/></center>
 
-__
 
 
 
