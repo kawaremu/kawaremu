@@ -9,6 +9,13 @@
 - 🥅 2022 Goals: Learn more about Web Development
 - ⚡ Fun fact: I love to draw, learn japanese and play piano
 
+### Connect with me:
+
+
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:0px;" />
@@ -29,15 +36,7 @@
 
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
-<br />
-### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
-&nbsp;&nbsp;
-<!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only) -->
-
-<br />
-<br />
 
 ---
 
