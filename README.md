@@ -14,7 +14,7 @@
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
 
 
 ### Languages and Tools:
