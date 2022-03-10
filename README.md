@@ -12,11 +12,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[!
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:0px;" />
