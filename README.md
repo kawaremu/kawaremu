@@ -10,16 +10,16 @@
 - ⚡ Fun fact: I love to draw, learn japanese and play piano
 
 
-### Connect with me:
-
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-
 ### Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:0px;" />
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" style="padding-right:10px;" />
+
+### Connect with me:
+
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
+&nbsp;&nbsp;
+<!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only) -->
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -45,6 +45,10 @@
 <center><img align="left" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api?username=kawaremu&show_icons=true&hide_border=true&theme=shades-of-purple"/></center>
 
 
+<br />
+<br />
+
+---
 
 
 <img align="left" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaremu&layout=compact&show_icons=true&hide_border=true&theme=shades-of-purple"/>
