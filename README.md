@@ -14,7 +14,7 @@
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/kawaremu/)
+<!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/kawaremu/) -->
 
 
 ### Languages and Tools:
