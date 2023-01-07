@@ -1,15 +1,14 @@
-# Hi there, I'm Ahlem  👋 
+# Hi there, Ahlem here  👋 
 
 
+## Computer Vision Engineer and Software Developer
 
-## I'm a Computer Vision Engineer and Software Developer! 👓
-
-- 🌱 I’m currently learning a bit of  everything.
-- 📉 I’m a Machine Learning enthusiast.
-- 🥅 2023 Goals: Become a Full Stack Engineer.
+- 🌱 I’m currently learning a bit of  everything
+- 📉 I’m a Machine Learning enthusiast
+- 🥅 2023 Goals: Become a Full Stack Engineer
 - ⚡ Fun fact: I love to draw, learn japanese and play piano
 
-### Connect with me:
+### Connect with me
 
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
@@ -17,7 +16,7 @@
 <!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/kawaremu/) -->
 
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="Java" width="30px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:0px;" />
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" style="padding-right:10px;" />
