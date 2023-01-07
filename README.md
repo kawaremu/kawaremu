@@ -8,12 +8,6 @@
 - 🥅 2023 Goals: Become a Full Stack Engineer
 - ⚡ Fun fact: I love to draw, learn japanese and play piano
 
-### Connect with me
-
-
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
-&nbsp;&nbsp;
-<!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/kawaremu/) -->
 
 
 ### Languages and Tools
@@ -34,11 +28,17 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<br />
+<br />
 
+### Connect with me
+
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
+&nbsp;&nbsp;
 
 
 ---
-<!-- 
+
 <center><img align="left" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api?username=kawaremu&show_icons=true&hide_border=true&theme=shades-of-purple"/></center>
 
 
@@ -48,6 +48,6 @@
 ---
 
 
-<img align="left" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaremu&layout=compact&show_icons=true&hide_border=true&theme=shades-of-purple"/> -->
+<img align="left" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaremu&layout=compact&show_icons=true&hide_border=true&theme=shades-of-purple"/>
 
 
