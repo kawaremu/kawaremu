@@ -31,21 +31,15 @@
 <br />
 <br />
 
-### Connect with me
-
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/boucelham-ahlem-730345223/)
-&nbsp;&nbsp;
 
 
----
-<!-- 
 <img align="center" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api?username=kawaremu&show_icons=true&hide_border=true&theme=shades-of-purple"/>
- -->
+
 
 <br />
 <br />
 
-<!-- 
-<img align="center" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaremu&layout=compact&show_icons=true&hide_border=true&theme=dracula&hide=jupyter%20notebook,html"/> -->
+
+<img align="center" alt="kawaremu-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaremu&layout=compact&show_icons=true&hide_border=true&theme=dracula&hide=jupyter%20notebook,html"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaremu&label=Profile%20views&color=0e75b6&style=flat" alt="ilieschibane" /> </p>
