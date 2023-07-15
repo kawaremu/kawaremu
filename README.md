@@ -3,9 +3,8 @@
 
 ##  Computer Vision Engineer and Software Developer
 
-- 🌱 I’m currently learning a bit of  everything
+- 🌱 I’m currently learning a bit of everything
 - 📉 I’m a Machine Learning enthusiast
-- 🥅 2023 Goals: Become a Full Stack Engineer
 - ⚡ Fun fact: I love to draw, learn japanese and play piano
 
 
